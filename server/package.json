@@ -1,0 +1,21 @@
+{
+  "name": "teste-mercado-livre",
+  "version": "1.0.0",
+  "description": "Teste frontend para Mercado livre",
+  "main": "server.js",
+  "scripts": {
+    "start": "SET NODE_ENV=dev && node server.js"
+  },
+  "keywords": [
+    "mercado livre",
+    "javascript",
+    "api rest",
+    "json"
+  ],
+  "author": "julia Souza",
+  "devDependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1",
+    "request": "^2.83.0"
+  }
+}
